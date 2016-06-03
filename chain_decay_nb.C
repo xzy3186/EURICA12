@@ -1,0 +1,31 @@
+{
+   TChain *decay = new TChain ("decay");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4100.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4101.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4102.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4103.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4104.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4105.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4106.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4107.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4108.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4109.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4110.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4111.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4112.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4113.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4114.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4115.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4116.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4117.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4118.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4119.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4120.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4121.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4122.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4123.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4124.root");
+   decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4125.root");
+   //decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4126.root");
+   //decay->Add("root/sistopper/decay_ggmatrix_old/DECAY_GGMatrix4127.root");
+}

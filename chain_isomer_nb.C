@@ -1,0 +1,31 @@
+{
+   TChain *tree = new TChain ("tree");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4100.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4101.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4102.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4103.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4104.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4105.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4106.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4107.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4108.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4109.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4110.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4111.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4112.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4113.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4114.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4115.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4116.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4117.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4118.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4119.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4120.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4121.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4122.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4123.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4124.root");
+   tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4125.root");
+   //tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4126.root");
+   //tree->Add("root/sistopper/eurica_ggmatrix_old/EURICA_GGMatrix4127.root");
+}
