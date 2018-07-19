@@ -9,7 +9,7 @@
 #include <vector>
 #include <cstdlib>
 
-std::string install_dir2("/home/analysis/ribf_exp/ur12/users/xuzy");
+std::string install_dir2("/home/xzy3186/analysis/ur12/users/xuzy");
 void AddIncludePath(std::string dir);
 void AddLinkedLibs();
 void LoadModule(std::string dir);
